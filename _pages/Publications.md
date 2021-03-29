@@ -3,13 +3,12 @@ title:  "Publications"
 layout: single
 permalink: /publications/
 author_profile: true
-# comments: true
+# comments: false
 classes: wide
 ---
 ## Peer-Reviewed Papers
-- **Córdova-Udaeta, Mauricio**; Kim, Yonggu; Yasukawa, Kazutaka; Kato, Yasuhiro; Fujita, Toyohisa; Dodbiba, Gjergj, Study on the synthesis of hydroxyapatite under highly alkaline conditions, Industrial & Engineering Chemistry Research, TBD (2021)
-- Dodbiba, G., Zhang, X., Kim, Y., **Córdova Udaeta, M.**, Ponou, J., Fujita, T., 2020. Enhanced elution
-of chloride ions from incinerator bottom ash. Chem. Eng. Commun. 1–9. [Link](https://doi.org/10.1080/00986445.2020.1811698)
+- **Mauricio Córdova-Udaeta**, Yonggu Kim, Kazutaka Yasukawa, Yasuhiro Kato, Toyohisa Fujita, and Gjergj Dodbiba, Study on the Synthesis of Hydroxyapatite under Highly Alkaline Conditions, Industrial & Engineering Chemistry Research, 2021, 60 (11), 4385-4396. [Link](https://doi.org/10.1021/acs.iecr.0c05969)
+- Dodbiba, G., Zhang, X., Kim, Y., **Córdova Udaeta, M.**, Ponou, J., Fujita, T., 2020. Enhanced elution of chloride ions from incinerator bottom ash. Chem. Eng. Commun. 1–9. [Link](https://doi.org/10.1080/00986445.2020.1811698)
 - **Córdova Udaeta, M.**; Ponou, J.; Dodbiba, G.; Fujita, T. Enrichment of Silicocarnotite from Silicocarnotite
 and Gehlenite Mixtures Using a Kerosene-Based Liquid-Liquid Separation Process. J. Environ. Chem. Eng.
 2019, 7 (6), 103387. [Link](https://doi.org/10.1016/j.jece.2019.103387)

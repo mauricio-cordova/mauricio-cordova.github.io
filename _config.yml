@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # bio              : "Random *Nonrandomness*"
   location         : "Tokyo, Japan"
-  email            : "mauricio-cordova-u [at mark] g.ecc.u-tokyo.ac.jp"
+  email            : "mau.cordova.u [at mark] gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
