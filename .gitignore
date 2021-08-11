@@ -1,3 +1,4 @@
-_configbackup.yml
-files/
-_site/files/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
