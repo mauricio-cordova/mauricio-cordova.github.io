@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Minimal Mistakes Theme installation
 gem "minimal-mistakes-jekyll"
+
+# Remove double title from heading
+gem 'jekyll-titles-from-headings'

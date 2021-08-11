@@ -3,10 +3,12 @@ title:  "Publications"
 layout: single
 permalink: /publications/
 author_profile: true
+strip_title: true
 # comments: false
 classes: wide
 ---
 ## Peer-Reviewed Papers
+- Gómez-Sánchez, D.L., Koga, H., Kim, Y., **Udaeta, M.C.** and Dodbiba, G. (2021), Relative distribution enhancement: a new factor for the evaluation of synergistic solvent extraction. J Chem Technol Biotechnol. [Link](https://doi.org/10.1002/jctb.6831)
 - **Mauricio Córdova-Udaeta**, Yonggu Kim, Kazutaka Yasukawa, Yasuhiro Kato, Toyohisa Fujita, and Gjergj Dodbiba, Study on the Synthesis of Hydroxyapatite under Highly Alkaline Conditions, Industrial & Engineering Chemistry Research, 2021, 60 (11), 4385-4396. [Link](https://doi.org/10.1021/acs.iecr.0c05969)
 - Dodbiba, G., Zhang, X., Kim, Y., **Córdova Udaeta, M.**, Ponou, J., Fujita, T., 2020. Enhanced elution of chloride ions from incinerator bottom ash. Chem. Eng. Commun. 1–9. [Link](https://doi.org/10.1080/00986445.2020.1811698)
 - **Córdova Udaeta, M.**; Ponou, J.; Dodbiba, G.; Fujita, T. Enrichment of Silicocarnotite from Silicocarnotite
