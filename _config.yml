@@ -95,9 +95,9 @@ analytics:
 author:
   # name             : "Mauricio Córdova Udaeta"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  # bio              : "Random *Nonrandomness*"
+  # bio              : " "
   location         : "Tokyo, Japan"
-  email            : "u.cordova [at mark] kurenai.waseda.jp"
+  email            : "mauricio.cordova [at mark] aoni.waseda.jp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

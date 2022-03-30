@@ -4,8 +4,8 @@ layout: single
 author_profile: true
 classes: wide
 ---
-Hello there, thank you for visiting. My name is Mauricio and I am working as a Researcher at [TokoroLab](http://www.tokoro.env.waseda.ac.jp/index.html). My current work is related to the processing and recovery of valuable materials from unconventional sources; but in all honesty, I am interested in all the things physical chemistry.
+Hello there, thank you for visiting. My name is Mauricio and I am working as a Junior Researcher at [TokoroLab](http://www.tokoro.env.waseda.ac.jp/index.html). My current work is related to the processing and recovery of valuable elements from unconventional sources; but in all honesty, I am interested in all things physical chemistry and inorganic materials.
 
-I have also developed a big interest in everything computing for the last few years. So much so that I taught myself programming from the ground up and right now I am trying to learn as much as possible about the intersection between machine learning and chemistry, by taking online courses and fiddling around with Python scripts, Kaggle datasets and the RDkit package.
+I have also developed a big interest in everything computing for the last few years. So much so that I taught myself programming from the ground up and right now I am trying to learn as much as possible about the intersection between computing and chemistry, by fiddling around with Python scripts for scientific computing and some machine learning libraries.
 
-If you are interested in my work or would like to get in touch, feel free to contact me!
+If you are interested in my work and/or would like to get in touch, feel free to contact me!

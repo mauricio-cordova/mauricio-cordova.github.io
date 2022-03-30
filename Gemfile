@@ -14,8 +14,10 @@ gem "minima", "~> 2.5"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
+gem "jekyll-titles-from-headings", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  # Remove double title from heading
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -31,5 +33,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Minimal Mistakes Theme installation
 gem "minimal-mistakes-jekyll"
 
-# Remove double title from heading
-gem 'jekyll-titles-from-headings'
+
