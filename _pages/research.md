@@ -8,6 +8,11 @@ strip_title: true
 classes: wide
 ---
 ## Peer-Reviewed Papers
+
+- Yanhui Kong, Yutaro Takaya, **Mauricio Córdova-Udaeta**, Chiharu Tokoro, Simple and efficient selective extraction of lithium from spent ternary lithium-ion batteries via oxidation/de-lithiation using NaClO, Sep. Purif. Technol. 2023, 322, 124280. [Link](https://doi.org/10.1016/j.seppur.2023.124280)
+- Qin, J.; Fang, Y.; Shi, J.; Tokoro, C.; **Córdova-Udaeta, M.**; Oyama, K.; Zhang, J. Waste-Based Ceramsite for the Efficient Removal of Ciprofloxacin in Aqueous Solutions. Int. J. Environ. Res. Public Health 2023, 20, 5042.
+- Qin, J.; Yuan, S.; **Córdova-Udaeta, M.**; Oyama, K.; Tokoro, C. Highly Efficient Cd2+ Removal Using Tobermorite with pH Self-Adjustment Ability from Aqueous Solution. Materials 2023, 16, 1314 [Link](https://doi.org/10.3390/ma16031314) 
+- **Córdova-Udaeta, M.**, Recovery of Phosphorus from Sewage Sludge Ash Using Approaches Based on Physical Separation Methods,「環境資源工学」Vol.69 No.1 (2021年度博士論文紹介)
 - Yutaro Takaya, Yiyun Xiao, Yuki Tsunazawa, **Mauricio Córdova**, Tokoro Chiharu, Mechanochemical degradation treatment of TBBPA: A kinetic approach for predicting the degradation rate constant. Adv. Powder Technol. 2022, 33 (3), 103469 [Link](https://doi.org/10.1016/j.apt.2022.103469)
 - Gómez-Sánchez, D.L., Koga, H., Kim, Y., **Udaeta, M.C.** and Dodbiba, G. (2021), Relative distribution enhancement: a new factor for the evaluation of synergistic solvent extraction. J Chem Technol Biotechnol. [Link](https://doi.org/10.1002/jctb.6831)
 - **Mauricio Córdova-Udaeta**, Yonggu Kim, Kazutaka Yasukawa, Yasuhiro Kato, Toyohisa Fujita, and Gjergj Dodbiba, Study on the Synthesis of Hydroxyapatite under Highly Alkaline Conditions, Industrial & Engineering Chemistry Research, 2021, 60 (11), 4385-4396. [Link](https://doi.org/10.1021/acs.iecr.0c05969)
@@ -25,14 +30,10 @@ Powder Technol. 2017, 28 (3), 755–762. [Link](https://doi.org/10.1016/j.apt.20
 ## Patents
 - Japanese Patent Application No. 2022-25585: "Hydroxyapatite particles and production method of hydroxyapatite". [Link](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-025585/692ED4E05215C781CD17D9D50D65242134FAD68B06E7C52D5AE1156F3C0362D9/11/ja)
 
-## Conference Proceedings
-- **Córdova Udaeta, M.**, Dodbiba G., Tokoro, C., Studies on alternative methods for the recovery of phosphorus from Sewage Sludge Ash and the wet chemical synthesis of hydroxyapatite. Proc. of The 8th Asian Particle Technology Symposium (APT2021), Osaka, Japan, Oct 11 - 14, 2021
-- **Córdova Udaeta, M.**, Dodbiba G., Fujita, T., Study on the liquid-liquid separation of silicocarnotite
-and gehlenite using kerosene and sodium dodecyl sulfate. Proc. of the 16<sup>th</sup> Korea/Japan International
-Symposium on Resources Recycling and Materials Science, Seoul, South Korea, May 17 - 18, 2018
-- **Córdova Udaeta, M.**, Ponou, J., Dodbiba G., Fujita, T., Recovery of phosphorus from sewage sludge
-ash by heat treatment followed by liquid-liquid separation, Proc. of the 8<sup>th</sup> International Conference on
-Materials Engineering for Resources, (ICMR2017), AP-9, pp. 229 – 232, Akita, Japan, Oct 25 - 27, 2017
-- Fujita, T., Dodbiba G., Ponou J., **Córdova Udaeta, M.**, Reduction of PM, NO<sub>x</sub>, CO in the emitted
-gas and increase of combustion efficiency using stable emulsion fuel, Proc. of ICATSD2016-ISGT-2016, pp.
-1339-1346, Ho-chi Mihn City, Vietnam, 2016
+## Presentations
+- **Mauricio Córdova Udaeta**, Cheng Bowen, Shigeshi Fuchida, Yutaro Takaya, Jun Horiuchi, Hiroyuki Masuoka, Keishi Oyama, Chiharu Tokoro, "Comparative study on the oxidation of manganese ions by sodium hypochlorite and potassium permanganate under low pH conditions", 19th Asian Pacific Confederation of Chemical Engineering (APCChE2022), Kuala Lumpur, Malaysia, August 2022.
+- **M. Cordova-Udaeta**, G. Dodbiba, C. Tokoro, "Studies on alternative methods for the recovery of phosphorus from sewage sludge ash and the wet chemical synthesis of hydroxyapatite", The 8th Asian Particle Technology Symposium, Osaka, Japan, October 2021.
+- **Córdova Udaeta, M.**, Dodbiba G., Fujita, T., Study on the liquid-liquid separation of silicocarnotite and gehlenite using kerosene and sodium dodecyl sulfate, The 16th Korea/Japan International Symposium on Resources Recycling and Materials Science, Seoul, South Korea, May 2018. 
+- **Mauricio Cordova Udaeta**, G.Dodbiba, T. Fujita, Recovery of phosphorus from sewage sludge ash (SSA) by heat treatment followed by liquid-liquid separation, The 8th International Conference on Materials Engineering for Resources (ICMR-AKITA), Akita, Japan, October 2017. 
+- **Mauricio Cordova Udaeta**, G.Dodbiba, T. Fujita, Recovery of phosphorus from sewage sludge ash (SSA) by heat treatment followed by high gradient magnetic separation and flotation, The 15th Korea/Japan International Symposium on Resources Recycling and Materials Science (Kansai Univ. / KIGAM / KIRR), Osaka, Japan, April 2017. 
+- **Mauricio Cordova Udaeta**, Rosario Montaño, Manganese Removal in Underground Waters using adsorption onto natural zeolites (in Spanish), The 12th National Sanitary and Environmental Engineering Congress – Bolivian Association of Sanitary Engineering (ABIS), Cochabamba, Bolivia, July, 2012.
