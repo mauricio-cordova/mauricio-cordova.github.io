@@ -8,7 +8,9 @@ strip_title: true
 classes: wide
 ---
 ## Peer-Reviewed Papers
-
+- Yanhui Kong, Yutaro Takaya, **Mauricio Córdova-Udaeta**, Chiharu Tokoro, A comprehensive approach for the recycling of anode materials from spent lithium-ion batteries: Separation, lithium recovery, and graphite reutilization as environmental catalyst, Waste Management 2024, 188, 60-71. [Link](https://doi.org/10.1016/j.wasman.2024.07.033)
+- **Córdova-Udaeta, M.**, Cheng, B., Fuchida, S., Takaya, Y., Oyama, K., & Tokoro, C. (2024). Insights on the Mechanism of Manganese Oxide Precipitation from Mn2+ Solutions Using NaClO Under Highly Acidic Conditions, via Experimental Observations and Numerical Fitting of the Kinetic ODE System. Journal of Chemical Engineering of Japan, 57(1). [Link](https://doi.org/10.1080/00219592.2024.2366409)
+- Takaya Yutaro, Imaizumi Yuto, Koita Taketoshi, **Córdova Udaeta Edwin Mauricio**, Chiharu Tokoro, Effect of electric pulse treatment on silver recovery from spent solar panel sheet by acid-leaching, Journal of Material Cycles and Waste Management (2024). [Link](https://doi.org/10.1007/s10163-024-01951-5)
 - Yanhui Kong, Yutaro Takaya, **Mauricio Córdova-Udaeta**, Chiharu Tokoro, Simple and efficient selective extraction of lithium from spent ternary lithium-ion batteries via oxidation/de-lithiation using NaClO, Sep. Purif. Technol. 2023, 322, 124280. [Link](https://doi.org/10.1016/j.seppur.2023.124280)
 - Qin, J.; Fang, Y.; Shi, J.; Tokoro, C.; **Córdova-Udaeta, M.**; Oyama, K.; Zhang, J. Waste-Based Ceramsite for the Efficient Removal of Ciprofloxacin in Aqueous Solutions. Int. J. Environ. Res. Public Health 2023, 20, 5042.
 - Qin, J.; Yuan, S.; **Córdova-Udaeta, M.**; Oyama, K.; Tokoro, C. Highly Efficient Cd2+ Removal Using Tobermorite with pH Self-Adjustment Ability from Aqueous Solution. Materials 2023, 16, 1314 [Link](https://doi.org/10.3390/ma16031314) 
