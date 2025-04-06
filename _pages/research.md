@@ -8,6 +8,8 @@ strip_title: true
 classes: wide
 ---
 ## Peer-Reviewed Papers
+- H. Iwai, **M. Córdova-Udaeta**, Y. Takaya, N. Yokota, Y. Takahashi, C. Tokoro, Hydroxylation and sulfidation for nickel recovery from a spent catalyst containing the chelating agent, 2,2′-bipyridine, RSC Advances 15 (10), 7721-7727. [Link](https://doi.org/10.1039/D5RA00470E)
+- Kong Y., Takaya Y., **Córdova-Udaeta M.**, Tokoro C., Investigation of the influence of fluorine on metal elution from cathodic active material liberated from spent lithium-ion batteries with a focus on the underwater electrical pulse method, IOP Conference Series: Materials Science and Engineering, Volume 1318. [Link](https://iopscience.iop.org/article/10.1088/1757-899X/1318/1/012050)
 - Yanhui Kong, Yutaro Takaya, **Mauricio Córdova-Udaeta**, Chiharu Tokoro, A comprehensive approach for the recycling of anode materials from spent lithium-ion batteries: Separation, lithium recovery, and graphite reutilization as environmental catalyst, Waste Management 2024, 188, 60-71. [Link](https://doi.org/10.1016/j.wasman.2024.07.033)
 - **Córdova-Udaeta, M.**, Cheng, B., Fuchida, S., Takaya, Y., Oyama, K., & Tokoro, C. (2024). Insights on the Mechanism of Manganese Oxide Precipitation from Mn2+ Solutions Using NaClO Under Highly Acidic Conditions, via Experimental Observations and Numerical Fitting of the Kinetic ODE System. Journal of Chemical Engineering of Japan, 57(1). [Link](https://doi.org/10.1080/00219592.2024.2366409)
 - Takaya Yutaro, Imaizumi Yuto, Koita Taketoshi, **Córdova Udaeta Edwin Mauricio**, Chiharu Tokoro, Effect of electric pulse treatment on silver recovery from spent solar panel sheet by acid-leaching, Journal of Material Cycles and Waste Management (2024). [Link](https://doi.org/10.1007/s10163-024-01951-5)
@@ -33,6 +35,7 @@ Powder Technol. 2017, 28 (3), 755–762. [Link](https://doi.org/10.1016/j.apt.20
 - Japanese Patent Application No. 2022-25585: "Hydroxyapatite particles and production method of hydroxyapatite". [Link](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-025585/692ED4E05215C781CD17D9D50D65242134FAD68B06E7C52D5AE1156F3C0362D9/11/ja)
 
 ## Presentations
+- **Mauricio Córdova Udaeta**, Chiharu Tokoro, "Environmental processing for a sustainable society: resource recovery from waste streams and the reuse of discarded materials for environmental remediation", Annual Meeting of The Ceramic Society of Japan, Hamamatsu, Shizuoka, March 2025. *(Invited)*
 - **Mauricio Córdova Udaeta**, Cheng Bowen, Shigeshi Fuchida, Yutaro Takaya, Jun Horiuchi, Hiroyuki Masuoka, Keishi Oyama, Chiharu Tokoro, "Comparative study on the oxidation of manganese ions by sodium hypochlorite and potassium permanganate under low pH conditions", 19th Asian Pacific Confederation of Chemical Engineering (APCChE2022), Kuala Lumpur, Malaysia, August 2022.
 - **M. Cordova-Udaeta**, G. Dodbiba, C. Tokoro, "Studies on alternative methods for the recovery of phosphorus from sewage sludge ash and the wet chemical synthesis of hydroxyapatite", The 8th Asian Particle Technology Symposium, Osaka, Japan, October 2021.
 - **Córdova Udaeta, M.**, Dodbiba G., Fujita, T., Study on the liquid-liquid separation of silicocarnotite and gehlenite using kerosene and sodium dodecyl sulfate, The 16th Korea/Japan International Symposium on Resources Recycling and Materials Science, Seoul, South Korea, May 2018. 
