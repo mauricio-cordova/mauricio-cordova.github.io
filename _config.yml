@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # bio              : " "
   location         : "Tokyo, Japan"
-  email            : "e.cordovaudaeta [at mark] kurenai.waseda.jp"
+  # email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

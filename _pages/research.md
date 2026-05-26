@@ -8,7 +8,7 @@ strip_title: true
 classes: wide
 ---
 ## Peer-Reviewed Papers
-- Kong Y., Takaya Y., **Córdova-Udaeta M.**, Tokoro C., Lithium Extraction from Spinel LiMn2O4 with Simultaneous Preparation of λ-MnO2 under Mild Conditions using Sodium Hypochlorite, *RSC Green Chemistry 2026.* [Link](https://doi.org/10.1039/D5GC04585A)
+- Kong Y., Takaya Y., **Córdova-Udaeta M.**, Tokoro C., Lithium Extraction from Spinel LiMn2O4 with Simultaneous Preparation of λ-MnO2 under Mild Conditions using Sodium Hypochlorite, *RSC Green Chemistry 2026, 28, 351-364* [Link](https://doi.org/10.1039/D5GC04585A)
 - Tokoro C., Nakahara M., Kurihara T., Kubota A., **Córdova-Udaeta M.**, Narita A., Takaya Y., Low-capacitance pulsed discharge enables heat- and solvent-free delamination of lithium-ion battery cathodes, *RSC Sustainability 2025 (3), 12, 5571-5579.* [Link](https://doi.org/10.1039/D5SU00304K)
 - **Mauricio Córdova-Udaeta**, Bowen Cheng, Shigeshi Fuchida, Yutaro Takaya, Jun Horiuchi, Hiroyuki Masuoka, Keishi Oyama, Chiharu Tokoro. Selective Manganese Precipitation via Neutralization and Ozone Oxidation under pH Conditions Similar to Steel Pickling Wastewater: Thermodynamic Assessment and Experimental XANES Evaluation. *ACS Omega 2025, 10, 17, 18085–18097.* [Link](https://pubs.acs.org/doi/10.1021/acsomega.5c01588)
 - H. Iwai, **M. Córdova-Udaeta**, Y. Takaya, N. Yokota, Y. Takahashi, C. Tokoro, Hydroxylation and sulfidation for nickel recovery from a spent catalyst containing the chelating agent, 2,2′-bipyridine, *RSC Advances 2025 (15), 7721-7727.* [Link](https://doi.org/10.1039/D5RA00470E)
