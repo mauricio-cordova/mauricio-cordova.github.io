@@ -35,8 +35,8 @@ Sludge Ash (SSA) by Heat Treatment Followed by High Gradient Magnetic Separation
 Powder Technol. 2017, 28 (3), 755–762.* [Link](https://doi.org/10.1016/j.apt.2016.11.023)
 
 ## Patents
-- Japanese Patent Application No. 2025-136420: "Method for Lithium recovery and production of lithium adsorbent".
-- Japanese Patent Application No. 2022-25585: "Hydroxyapatite particles and production method of hydroxyapatite". 
+- Japanese Patent Application No. 2025-136420: *"Method for Lithium recovery and production of lithium adsorbent".*
+- Japanese Patent Application No. 2022-25585: *"Hydroxyapatite particles and production method of hydroxyapatite".* 
 
 
 ## Presentations
