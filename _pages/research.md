@@ -8,6 +8,7 @@ strip_title: true
 classes: wide
 ---
 ## Peer-Reviewed Papers
+- **Córdova-Udaeta M.**, Driscoll E. H., Driscoll L.L., Zubair Y.O., Tokoro C., Kendrick E., From mixed battery waste to next-generation cathode: A green co-precipitation route for LMFP from spent LMO/NCA and LFP streams, *Chemical Engineering Journal 2026, 181434*  [Link](https://doi.org/10.1016/j.cej.2026.181434)
 - Kong Y., Takaya Y., **Córdova-Udaeta M.**, Tokoro C., Lithium Extraction from Spinel LiMn<sub>2</sub>O<sub>4</sub> with Simultaneous Preparation of λ-MnO<sub>2</sub> under Mild Conditions using Sodium Hypochlorite, *RSC Green Chemistry 2026, 28, 351-364* [Link](https://doi.org/10.1039/D5GC04585A)
 - Tokoro C., Nakahara M., Kurihara T., Kubota A., **Córdova-Udaeta M.**, Narita A., Takaya Y., Low-capacitance pulsed discharge enables heat- and solvent-free delamination of lithium-ion battery cathodes, *RSC Sustainability 2025 (3), 12, 5571-5579.* [Link](https://doi.org/10.1039/D5SU00304K)
 - **Mauricio Córdova-Udaeta**, Bowen Cheng, Shigeshi Fuchida, Yutaro Takaya, Jun Horiuchi, Hiroyuki Masuoka, Keishi Oyama, Chiharu Tokoro. Selective Manganese Precipitation via Neutralization and Ozone Oxidation under pH Conditions Similar to Steel Pickling Wastewater: Thermodynamic Assessment and Experimental XANES Evaluation. *ACS Omega 2025, 10, 17, 18085–18097.* [Link](https://pubs.acs.org/doi/10.1021/acsomega.5c01588)
